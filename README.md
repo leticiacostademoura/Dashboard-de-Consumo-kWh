@@ -1,2 +1,12 @@
 # Dashboard-de-Consumo-kWh
-Essa API gera um gráfico de consumo de energia a partir de dados informados pelo usuário
+Essa API gera um simples gráfico de consumo de energia a partir de dados informados pelo usuário.
+
+Inicialmente, o usuário informará a média de seu consumo de energia (em kWh) mensal, uma proposta de meta de economia energética e, por fim, informará seu consumo anual, mês a mês. 
+
+A ideia é apresentar ao usuário uma visão do seu consumo anual comparado a sua meta de economia proposta, com o intuito de mostrar se a meta imposta foi ou não atingida.
+
+Para a confecção dos gráficos, foi utilizada a biblioteca "JFreeChart".
+
+Imagens da aplicação em funcionamento:
+
+Link para testar:
