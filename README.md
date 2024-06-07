@@ -9,5 +9,5 @@ A calculadora foi desenvolvida na IDE Netbeans e para a confecção dos gráfico
 
 Imagens da aplicação em funcionamento:
 
-![image](https://github.com/leticiacostademoura/Dashboard-de-Consumo-kWh/assets/171523609/adfc47bb-a36c-48ef-aae2-8ce4a93ca458)
-![image](https://github.com/leticiacostademoura/Dashboard-de-Consumo-kWh/assets/171523609/99dae432-9bce-45be-81d0-9cfb8bd48723)
+![image](https://github.com/leticiacostademoura/Dashboard-de-Consumo-kWh/assets/171523609/adfc47bb-a36c-48ef-aae2-8ce4a93ca458) ![image](https://github.com/leticiacostademoura/Dashboard-de-Consumo-kWh/assets/171523609/99dae432-9bce-45be-81d0-9cfb8bd48723)
+
